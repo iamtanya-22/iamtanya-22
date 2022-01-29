@@ -26,5 +26,25 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamtanya-22&show_icons=true&locale=en" alt="iamtanya-22" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamtanya-22&show_icons=true&locale=en&layout=compact" alt="iamtanya-22" /></p>
+
+<h3 align="center">Github Stats</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamtanya-22&show_icons=true&hide=stars,issues&count_private=true&theme=radical" alt="Tanya Rastogi" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtanya-22&layout=compact&langs_count=10&count_private=true&theme=radical" alt="iamtanya-22" />
+</p>
+<br>
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=iamtanya-22&theme=radical" />
+</p> 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamtanya-22&"  /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=iamtanya-22" alt="Tanya Rastogi"/>  
+</p>
 
