@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/iamtanya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="iamtanya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tanya-rastogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanya-rastogi" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/tanya-rastogi-577141202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanya-rastogi" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tanya2212" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tanya2212" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/_tanyaa_rastogi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_tanyaa_rastogi" height="30" width="40" /></a>
 </p>
